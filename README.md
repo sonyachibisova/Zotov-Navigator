@@ -84,7 +84,7 @@ Spring Boot Backend
 Требуется JDK 17+.
 
 ```bash
-git clone [https://github.com/sonyachibisova/ZotovNavigation.git](https://github.com/sonyachibisova/Zotov-Navigator.git)
+git clone https://github.com/sonyachibisova/Zotov-Navigator.git
 cd ZotovNavigator
 ./mvnw spring-boot:run        # Windows: mvnw.cmd spring-boot:run
 ```
