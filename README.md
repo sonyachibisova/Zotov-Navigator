@@ -125,4 +125,4 @@ docs/                        техдокументация и кейс
 
 🥉 3 место в общем зачете на хакатоне «Креаторы и Кодеры» (Universal University × Школа 21).
 
-📄 [Диплом и материалы проекта (Google Drive)](https://drive.google.com/drive/folders/1fT5_ewns_3JcHY44i1cD6fKj_FqIDaQf?usp=sharing)
+📄 [Диплом и материалы проекта (Google Drive)](https://drive.google.com/drive/folders/1_lmjCLWUdEx5uRHnKOWHAWe-7-mJeU4x?usp=sharing)
